@@ -1,0 +1,77 @@
+// http://localhost:3001/tokenPrice?addressOne=0x514910771af9ca656af840dff83e8264ecf986ca&addressTwo=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+
+{
+    tokenName: 'USD Coin',
+    tokenSymbol: 'USDC',
+    tokenLogo: 'https://cdn.moralis.io/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png',
+    tokenDecimals: '6',
+    nativePrice: {
+      value: '523544597262637',
+      decimals: 18,
+      name: 'Ether',
+      symbol: 'ETH',
+      address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    },
+    usdPrice: 1.0004077054444884,
+    usdPriceFormatted: '1.0004077054444884',
+    exchangeAddress: '0x1f98431c8ad98523631ae4a59f267346ea31f984',
+    exchangeName: 'Uniswap v3',
+    tokenAddress: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'
+  }
+  {
+    tokenName: 'Chain Link',
+    tokenSymbol: 'LINK',
+    tokenLogo: 'https://cdn.moralis.io/eth/0x514910771af9ca656af840dff83e8264ecf986ca.png',
+    tokenDecimals: '18',
+    nativePrice: {
+      value: '3595139436080636',
+      decimals: 18,
+      name: 'Ether',
+      symbol: 'ETH',
+      address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    },
+    usdPrice: 6.869720770317065,
+    usdPriceFormatted: '6.869720770317065',
+    exchangeAddress: '0x1f98431c8ad98523631ae4a59f267346ea31f984',
+    exchangeName: 'Uniswap v3',
+    tokenAddress: '0x514910771af9ca656af840dff83e8264ecf986ca'
+  }
+
+  // http://localhost:3001/tokenPrice?addressOne=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&addressTwo=0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+
+  {
+    tokenName: 'USD Coin',
+    tokenSymbol: 'USDC',
+    tokenLogo: 'https://cdn.moralis.io/eth/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48.png',
+    tokenDecimals: '6',
+    nativePrice: {
+      value: '523563706748698',
+      decimals: 18,
+      name: 'Ether',
+      symbol: 'ETH',
+      address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    },
+    usdPrice: 1.0006704152447639,
+    usdPriceFormatted: '1.0006704152447639',
+    exchangeAddress: '0x1f98431c8ad98523631ae4a59f267346ea31f984',
+    exchangeName: 'Uniswap v3',
+    tokenAddress: '0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48'
+  }
+  {
+    tokenName: 'Wrapped Ether',
+    tokenSymbol: 'WETH',
+    tokenLogo: 'https://cdn.moralis.io/eth/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png',
+    tokenDecimals: '18',
+    nativePrice: {
+      value: '1000000000000000000',
+      decimals: 18,
+      name: 'Ether',
+      symbol: 'ETH',
+      address: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+    },
+    usdPrice: 1911.2677260593046,
+    usdPriceFormatted: '1911.2677260593046',
+    exchangeAddress: '0x1f98431c8ad98523631ae4a59f267346ea31f984',
+    exchangeName: 'Uniswap v3',
+    tokenAddress: '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'
+  }

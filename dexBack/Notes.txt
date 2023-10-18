@@ -1,0 +1,2 @@
+dex> npm run start to kick off web show on 3000 port.
+dexBack> node index.js to kick start web server on 3001 port Express
